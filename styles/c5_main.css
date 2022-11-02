@@ -75,4 +75,6 @@ main li {
 footer p {
 	text-align: center;
 	padding: 1em 0;
+	color: white;
+	background: #931420;
 }
