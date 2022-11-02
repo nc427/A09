@@ -78,3 +78,8 @@ footer p {
 	color: white;
 	background: #931420;
 }
+/* reset selector */
+*{
+	margin: 0;
+	padding: 0;
+}
