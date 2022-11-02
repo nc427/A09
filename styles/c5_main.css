@@ -33,7 +33,7 @@ header {
 	border-bottom: 3px solid #931420;
 	padding-top: 1.5em;
 	padding-bottom: 2em;
-	background-image: linear-gradient(to top left, #f6bb73 0%, #f6bb73 30%, white 50%,
+	background-image: linear-gradient(to top right, #f6bb73 0%, #f6bb73 30%, white 50%,
 										#f6bb73 80%, #f6bb73 100%);
 }
 .shadow {
